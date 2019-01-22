@@ -1,0 +1,3 @@
+rootProject.name = 'module_resolver_example'
+
+include ':app'
